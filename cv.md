@@ -4,7 +4,7 @@
 2. Contacts:
    1. Email: zsv.main@gmail.com
    2. Tel: +79538280088
-3. Цель повысить уровень знаний в js, для участия в интересных проектах.
+3. The goal is to increase knowledge in js, to participate in interesting projects.Improve JS \\ HTML \\ CSS to support CRM in the organization
 4. Skills:
    1. JS - elementary
    2. Java - elementary
