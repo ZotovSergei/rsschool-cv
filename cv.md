@@ -11,4 +11,7 @@
    3. C# - elementary
 5. Code: https://github.com/ZotovSergei 
 6. Опыт в разработке/поддержке CRM систем в организации. (6 month)
-7. 
+7. Education:
+   1. Information Security (Specialized secondary)
+   2. rs-school (1 stage)
+8. English - Elementary
