@@ -70,17 +70,19 @@ img {
     background-color: white;
     font-size: 20px;
 }
+
 .aboutMe-title {
     text-align: center;
     font-family: 'Fjalla One', sans-serif;
     margin-top: 20px;
+    margin-bottom: 20px;
     font-size: 30px;
 }
 .about-Container .aboutMe-description {
     margin-left: 30px;
     display: block;
     width: 270px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     color: black;
     line-height: 23px;
     /* font-family: 'Sriracha', cursive; */
@@ -88,3 +90,7 @@ img {
     font-family: 'Kelly Slab', cursive;
     font-style: italic;
 }
+.aboutMe-tel {
+    margin-top: 0px;
+}
+
