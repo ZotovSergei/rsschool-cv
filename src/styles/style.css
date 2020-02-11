@@ -43,7 +43,9 @@ img {
 }
 .position-jun {
     font-size: 28px;
-    font-family: 'Fjalla One', sans-serif;
+    /* font-family: 'Sriracha', cursive; */
+    /* font-family: 'Fjalla One', sans-serif; */
+    font-family: 'Kelly Slab', cursive;
     text-align: center;
     margin-left: 215px;
 }
@@ -62,17 +64,27 @@ img {
 }
 /* AboutMe */
 .aboutMe {
+    border: mediumblue 3px solid;
+    color: mediumblue;
     width: 40%;
-    background-color: olive;
+    background-color: white;
     font-size: 20px;
 }
 .aboutMe-title {
     text-align: center;
     font-family: 'Fjalla One', sans-serif;
-    /* margin-left: 10px; */
+    margin-top: 20px;
+    font-size: 30px;
 }
 .about-Container .aboutMe-description {
-    margin-left: 10px;
+    margin-left: 30px;
     display: block;
-    width: 190px;
+    width: 270px;
+    margin-top: 20px;
+    color: black;
+    line-height: 23px;
+    /* font-family: 'Sriracha', cursive; */
+    /* font-family: 'Fjalla One', sans-serif; */
+    font-family: 'Kelly Slab', cursive;
+    font-style: italic;
 }
