@@ -45,5 +45,34 @@ img {
     font-size: 28px;
     font-family: 'Fjalla One', sans-serif;
     text-align: center;
-    margin-left: 250px;
+    margin-left: 215px;
+}
+
+/*main container */
+
+.main {
+    margin-top: 40px;
+    height: 640px;
+    background-color: mediumspringgreen; 
+    display: flex;
+    width: 90%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+/* AboutMe */
+.aboutMe {
+    width: 40%;
+    background-color: olive;
+    font-size: 20px;
+}
+.aboutMe-title {
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    /* margin-left: 10px; */
+}
+.about-Container .aboutMe-description {
+    margin-left: 10px;
+    display: block;
+    width: 190px;
 }
