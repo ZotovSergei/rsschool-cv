@@ -94,3 +94,36 @@ img {
     margin-top: 0px;
 }
 
+/* Experience  */
+.exp {
+    border: mediumblue 3px solid;
+    border-left: none;
+    color: mediumblue;
+    width: 60%;
+    background-color: white;
+    font-size: 20px;
+}
+
+.exp-title {
+     margin-bottom: 20px;
+     margin-top: 20px;
+     text-align: center;
+     font-family: 'Fjalla One', sans-serif;
+     font-size: 30px;
+ }
+
+.ext-dd {
+    display: block;
+    width: 270px;
+    /* margin-top: 20px; */
+    color: black;
+    line-height: 23px;
+    /* font-family: 'Sriracha', cursive; */
+    /* font-family: 'Fjalla One', sans-serif; */
+    font-family: 'Kelly Slab', cursive;
+    font-style: italic;
+    margin-left: 40px;
+ }
+ .exp-container {
+     height: 100%;
+ }
